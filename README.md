@@ -350,7 +350,7 @@ Completed a simulated cybersecurity program focused on phishing threat identific
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aryanbbc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+<img src="https://raw.githubusercontent.com/Aryanbbc/Aryanbbc/main/profile/trophy.svg?v=2" alt="GitHub Trophies" />
 
 </div>
 
