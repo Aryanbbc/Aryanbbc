@@ -333,14 +333,14 @@ Completed a simulated cybersecurity program focused on phishing threat identific
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanbbc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Aryanbbc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
 
 <img height="180em" src="https://streak-stats.demolab.com?user=Aryanbbc&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br>
 <br>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbbc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
+<img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aryanbbc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
 
 </div>
 
