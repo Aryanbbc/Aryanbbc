@@ -333,13 +333,14 @@ Completed a simulated cybersecurity program focused on phishing threat identific
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanbbc&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanbbc&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanbbc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Aryanbbc&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br>
 <br>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbbc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbbc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
 
 </div>
 
@@ -349,7 +350,7 @@ Completed a simulated cybersecurity program focused on phishing threat identific
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aryanbbc&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience,Reviews" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aryanbbc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
 
@@ -369,7 +370,11 @@ Completed a simulated cybersecurity program focused on phishing threat identific
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aryanbbc/Aryanbbc/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanbbc/Aryanbbc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryanbbc/Aryanbbc/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aryanbbc/Aryanbbc/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
